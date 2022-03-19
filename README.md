@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NatalliaH
+- 👀 I’m interested in learning Github and Git commands
+- 🌱 I’m currently learning version control system Git
+- 💞️ I’m looking to collaborate on the ASK-project
